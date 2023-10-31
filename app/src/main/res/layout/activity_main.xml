@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="375dp"
+    android:layout_height="812dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="376dp"
+        android:layout_height="397dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginStart="1dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/img1" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="9dp"
+        android:layout_height="18dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="62dp"
+        app:srcCompat="@drawable/but1" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="25dp"
+        android:layout_marginTop="59dp"
+        app:srcCompat="@drawable/but2" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="171dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="324dp"
+        app:srcCompat="@drawable/Img2" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="68dp"
+        android:layout_height="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="338dp"
+        android:layout_marginEnd="24dp"
+        android:text="@string/until_26_09"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="238dp"
+        android:layout_height="75dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="324dp"
+        android:text="@string/go_for_a_walk_and_feed_the_dog"
+        android:textSize="31sp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="24dp"
+        android:layout_height="22dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="359dp"
+        app:srcCompat="@drawable/but3" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="327dp"
+        android:layout_height="88dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="220dp"
+        android:textSize="18sp"
+        android:text="@string/leaving_for_a_week_french_bulldog_wilfred_needs_help_feeding_twice_a_day_and_walk_from_26_to_30_september_i_bought_food_it_will_be_easy" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="220dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="150dp"
+        app:srcCompat="@drawable/img4" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="114dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="180dp"
+        app:srcCompat="@drawable/img3" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="39dp"
+        android:layout_marginBottom="53dp"
+        app:srcCompat="@drawable/but4" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="54dp"
+        android:layout_height="21dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="13dp"
+        app:srcCompat="@drawable/img5" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="66.66dp"
+        android:layout_height="11.34dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="17.33dp"
+        android:layout_marginEnd="15.33dp"
+        app:srcCompat="@drawable/img6" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="134dp"
+        android:layout_height="5dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="121dp"
+        android:layout_marginBottom="8dp"
+        app:srcCompat="@drawable/img7" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="251dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="38dp"
+        app:srcCompat="@drawable/img8" />
+
+</RelativeLayout>

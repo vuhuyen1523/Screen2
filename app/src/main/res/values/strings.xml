@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Screen2</string>
+    <string name="until_26_09">Until 26.09</string>
+    <string name="go_for_a_walk_and_feed_the_dog">Go for a walk and feed the dog</string>
+    <string name="leaving_for_a_week_french_bulldog_wilfred_needs_help_feeding_twice_a_day_and_walk_from_26_to_30_september_i_bought_food_it_will_be_easy">Leaving for a week, French Bulldog Wilfred needs help feeding twice a day and walk from 26 to 30 September. I bought food, it will be easy.</string>
+    <string name="respond">Respond</string>
+    <string name="next_to_you">Next to you</string>
+    <string name="on_the_map"><![CDATA[On the map >]]></string>
+</resources>
